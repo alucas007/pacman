@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\Pacman\Pacman.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="D:\dev\crn\Pacman\Pacman\Pacman.luaproj" />
+  <Id>1318af87-02ee-4d30-baa1-0126be611ccd</Id>
+</XmlLuaSolutionDocument>
